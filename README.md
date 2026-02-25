@@ -54,7 +54,7 @@ fn main() {
   </a>
   &nbsp;&nbsp;
   <a href="https://web.fluxer.app/channels/@me/1474479608528916575">
-    <img height="52" src="./fluxer_png.png" alt="Fluxer Zrada#1401"/>
+    <img height="52" src="./fluxer_png.png" alt="Fluxer DeviMorris#1401"/>
   </a>
 </p>
 
