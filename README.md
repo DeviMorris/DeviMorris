@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-stats.png" width="100%"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=devimorris" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=800&pause=300&color=AAAAFF&center=true&vCenter=true&width=600&lines=Rust;Go;Python;.ts;.js;Lua;Assembler+and+in+dreams...+%F0%9F%8C%A0)](https://git.io/typing-svg)
 
